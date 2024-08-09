@@ -6,7 +6,7 @@ const config = {
     sortBy: 'stars', // stars | updated
     limit: 15, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
+      forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
@@ -39,10 +39,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'UPT SMAN 6 SINJAI',
+      institution: 'UPT SMAN 2 PANGKEP',
       degree: 'Student',
-      from: '2018',
-      to: '2021',
+      from: '2023',
+      to: '2026',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
