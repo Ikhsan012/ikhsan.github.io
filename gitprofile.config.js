@@ -20,7 +20,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://github.zeeoneofc.my.id', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ikhsan-github-io.vercel.app/', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Copas',
