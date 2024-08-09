@@ -1,1 +1,1 @@
-web: npm i -g vite && npm run dev
+web: npm install vite && npm run dev
