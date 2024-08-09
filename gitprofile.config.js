@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'zeeoneofficial', // Your GitHub org/user name. (Required)
+    username: 'Ikhsan012', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 15, // How many projects to display.
     exclude: {
@@ -11,12 +11,12 @@ const config = {
     },
   },
   social: {
-    twitter: 'Zeeoneofc',
-    instagram: 'Zeeoneofc',
-    dev: 'Zeeoneofc',
-    website: 'https://api.zeeoneofc.my.id',
-    phone: '+62887435047326',
-    email: 'zeeoneofc@yahoo.com',
+    twitter: '-',
+    instagram: 'ikhsan_bruhh',
+    dev: 'IkhsanDev',
+    website: 'https://porto.ikhsandigiweb.xyz',
+    phone: '+6283137750223',
+    email: 'ikhsannull10@gmail.com',
   },
   resume: {
     fileUrl:
@@ -48,7 +48,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'zeeoneofc', // to hide blog section, keep it empty
+    username: 'Ikhsan012', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
